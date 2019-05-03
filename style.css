@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+html{
+    font-size: 22px;
+}
+
+body{
+    background-color: #F2A7CA;
+    height: 100vh;
+}
+section{
+    display: inline-block;
+    width: 50%;
+    padding: 2rem;
+    text-align: right;
+    font-family: "Indie Flower", sans-serif;
+    color: black;
+}
+h1 {
+    
+    font-size: 2rem;
+  
+}
+img{
+    display: inline-block;
+    width: 30%;
+    margin: 1rem 2rem;
+}
